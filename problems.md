@@ -4,4 +4,8 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 # BubbleSort
 
-Write the bubblesort algorithm.
+Implement the bubble sort algorithm.
+
+# Insertion Sort
+
+Implement the insertion sort algorithm.

@@ -17,3 +17,7 @@ Implement the selection sort algorithm.
 # Linear Search
 
 Implement linear search of an array.
+
+# Binary Search
+
+Implement binary search of an array.

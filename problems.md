@@ -13,3 +13,7 @@ Implement the insertion sort algorithm.
 # Selection Sort
 
 Implement the selection sort algorithm.
+
+# Linear Search
+
+Implement linear search of an array.

@@ -9,3 +9,7 @@ Implement the bubble sort algorithm.
 # Insertion Sort
 
 Implement the insertion sort algorithm.
+
+# Selection Sort
+
+Implement the selection sort algorithm.

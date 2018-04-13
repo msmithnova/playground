@@ -21,3 +21,7 @@ Implement linear search of an array.
 # Binary Search
 
 Implement binary search of an array.
+
+# Merge Sort
+
+Implement the merge sort algorithm.

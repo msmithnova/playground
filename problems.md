@@ -16,12 +16,16 @@ Implement the selection sort algorithm.
 
 # Linear Search
 
-Implement linear search of an array.
+Implement the linear search algorithm.
 
 # Binary Search
 
-Implement binary search of an array.
+Implement the binary search algorithm.
 
 # Merge Sort
 
 Implement the merge sort algorithm.
+
+# Jump Search
+
+Implement the jump search algorithm.

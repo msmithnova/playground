@@ -1,31 +1,35 @@
-# FizzBuzz
+## FizzBuzz
 
 Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
-# BubbleSort
+## BubbleSort
 
 Implement the bubble sort algorithm.
 
-# Insertion Sort
+## Insertion Sort
 
 Implement the insertion sort algorithm.
 
-# Selection Sort
+## Selection Sort
 
 Implement the selection sort algorithm.
 
-# Linear Search
+## Linear Search
 
 Implement the linear search algorithm.
 
-# Binary Search
+## Binary Search
 
 Implement the binary search algorithm.
 
-# Merge Sort
+## Merge Sort
 
 Implement the merge sort algorithm.
 
-# Jump Search
+## Jump Search
 
 Implement the jump search algorithm.
+
+## Interpolation Search
+
+Implement the interpolation search algorithm.

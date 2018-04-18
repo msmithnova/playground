@@ -33,3 +33,7 @@ Implement the jump search algorithm.
 ## Interpolation Search
 
 Implement the interpolation search algorithm.
+
+## Number of subarrays for which product and sum are equal
+
+Given an array of n numbers. We need to count the number of subarrays which have the same product and sum. Subarrays may be of length 1 to n. ie: subarrays of [1, 2, 3] are [1, 2, 3], [1, 2], [2, 3], [1], [2], and [3].

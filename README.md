@@ -1,6 +1,6 @@
 # Plan
 
-Implement various algorithms and data structures in various languages starting with a description.
+Implement various algorithms, data structures and practice problems in various languages starting with a description.
 
 1. Choose a language to work in.
 2. Write some pseudocode to represent the problem.
@@ -10,7 +10,7 @@ Implement various algorithms and data structures in various languages starting w
 6. Go to next problem and go back to 2.
 7. Once all problems are done, go to 1.
 
-## The problems
+## The Problems
 
 The problems are a mix of generic problems as well as more specific ones from various sources.
 
